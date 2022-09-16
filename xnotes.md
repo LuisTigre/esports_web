@@ -10,4 +10,4 @@ npx tailwindcss init -p
 
 # Icon installation
 
-phosphor-react
+npm i phosphor-react
